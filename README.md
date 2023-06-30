@@ -14,7 +14,7 @@ La calculatrice en Go est une application simple qui permet d'effectuer des opé
 
 ## 📷 Capture d'écran
 
-![Capture d'écran](screenshots/screenshot.png)
+![Capture d'écran](Capture%20d’écran%202023-06-30%20095429.png)
 *Capture d'écran de la calculatrice en action.*
 
 ## 🛠️ Installation
