@@ -42,6 +42,7 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 ---
 
-Vous pouvez me contacter à [votre-email@example.com](mailto:votre-email@example.com) pour toute question ou suggestion.
+Vous pouvez me contacter à [loicmaurer0@gmail.com](mailto:votre-email@example.com) pour toute question ou suggestion.
+Ou encore sur discord Id00l
 
 Merci d'utiliser la calculatrice en Go !
