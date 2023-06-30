@@ -1,33 +1,32 @@
-# Calculatrice en Go
+# ELIZA_IA
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-## 📝 Description
-La calculatrice en Go est une application simple qui permet d'effectuer des opérations mathématiques de base. Elle prend en compte les opérations d'addition, de soustraction, de multiplication et de division.
+## Description
 
-## 🚀 Fonctionnalités
+ELIZA_IA est une IA psychologue simple développée en Python. Elle est inspirée du programme original ELIZA créé dans les années 1950. L'objectif de ce projet est de recréer les fonctionnalités de l'ELIZA original et de fournir une base pour des développements ultérieurs. Veuillez noter que ce projet n'est pas encore terminé.
 
-- Addition : Effectue une addition entre deux nombres.
-- Soustraction : Effectue une soustraction entre deux nombres.
-- Multiplication : Effectue une multiplication entre deux nombres.
-- Division : Effectue une division entre deux nombres (la division par zéro est gérée).
+## Fonctionnalités
 
-## 📷 Capture d'écran
+- Réponses basées sur la correspondance de motifs : ELIZA_IA utilise des techniques de correspondance de motifs pour identifier des mots-clés et générer des réponses appropriées.
+- Simulation d'une séance de psychothérapie : ELIZA_IA engage l'utilisateur dans une conversation en posant des questions et en répondant à leurs entrées.
+- Possibilité de personnalisation : Le code source est disponible en open-source, ce qui permet aux utilisateurs de modifier et d'améliorer l'IA selon leurs besoins.
 
-![Capture d'écran](Capture%20d’écran%202023-06-30%20095429.png)
-*Capture d'écran de la calculatrice en action.*
+## Installation
 
-## 🛠️ Installation
+1. Assurez-vous que Python 3 est installé sur votre système.
+2. Clonez le dépôt : `git clone https://github.com/votre-utilisateur/ELIZA_IA.git`
+3. Accédez au répertoire du projet : `cd ELIZA_IA`
+4. Installez les dépendances : `pip install -r requirements.txt`
 
-1. Assurez-vous que Go est installé sur votre système.
-2. Clonez le dépôt : `git clone https://github.com/votre-utilisateur/calculatrice-go.git`
-3. Accédez au répertoire du projet : `cd calculatrice-go`
-4. Compilez le programme : `go build`
-5. Exécutez le programme : `./calculatrice-go`
+## Utilisation
 
-## 👥 Contribution
+1. Exécutez le script Python : `python eliza.py`
+2. Commencez à converser avec ELIZA_IA et profitez de la simulation de psychothérapie !
 
-Les contributions sont les bienvenues ! Si vous souhaitez apporter des améliorations à la calculatrice en Go, veuillez suivre les étapes suivantes :
+## Contributions
+
+Les contributions à ELIZA_IA sont les bienvenues ! Si vous souhaitez améliorer ou étendre le projet, veuillez suivre les étapes suivantes :
 
 1. Fork du projet
 2. Créez une branche : `git checkout -b fonctionnalite-nouvelle`
@@ -36,13 +35,12 @@ Les contributions sont les bienvenues ! Si vous souhaitez apporter des améliora
 5. Poussez les modifications : `git push origin fonctionnalite-nouvelle`
 6. Ouvrez une demande de fusion (Pull Request)
 
-## 📄 Licence
+## Licence
 
 Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ---
 
 Vous pouvez me contacter à [loicmaurer0@gmail.com](mailto:votre-email@example.com) pour toute question ou suggestion.
-Ou encore sur discord Id00l
 
-Merci d'utiliser la calculatrice en Go !
+Merci d'utiliser ELIZA_IA !
